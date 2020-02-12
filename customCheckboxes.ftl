@@ -1,6 +1,4 @@
-<!-----------------------------------------------------
----- Custom Bootstrap freemarker checkboxes macros ----
------------------------------------------------------->
+<!--Custom Bootstrap freemarker checkboxes macros -->
 
 <#function contains list item>
     <#list list as nextInList>
